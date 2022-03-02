@@ -1,6 +1,3 @@
-# Araknoid
-This project was coded as a five-part ongoing assignment on the 2nd semester of my 1st year at BIU. This project was coded using a single thread, which is rare for games such as this. Also, it uses no Java GUI Built-In objects, instead, I used a GUI implementation which is included in this repository.
-
 # About
 I implemented a version of the Arkanoid game, as part of the OOP course i took during my bachelor degree.
 The game contains various levels with increasing difficulty, in a gui friendly platform.
@@ -10,6 +7,9 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 * Usage of basic design patterns in OOP, such as Observer, Builder, etc.
 * Usage of several generic collections and data structures such as linked lists and arraylists.
 * Working with GUI.
+
+# Compiling and running
+You must have Java SE 10 or higher installed on your machine. Also, you can download the entire source code and run the game via any Java IDE.
 
 # The Goal
 Remove all blocks in each level by striking them with the ball.
